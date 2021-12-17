@@ -16,3 +16,12 @@ $ npm link
 $ ./index.js <cmd>
 ```# base-node-cli
 ````
+
+# Test 
+
+````bash
+# run command
+$ ./index.js hello -p Robbie 
+```# base-node-cli
+````
+
