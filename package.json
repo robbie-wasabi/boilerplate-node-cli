@@ -24,9 +24,6 @@
 		"format": "prettier --write \"./**/*.{js,json}\""
 	},
 	"dependencies": {
-		"@renproject/chains": "^2.5.10",
-		"@renproject/ren": "^2.5.9",
-		"@truffle/hdwallet-provider": "^1.5.1",
 		"axios": "^0.23.0",
 		"chalk": "^4.1.2",
 		"cli-alerts": "^1.2.2",
